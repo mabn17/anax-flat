@@ -7,6 +7,8 @@ Ramverkets källkod finns på GitHub [canax/anax-flat](https://github.com/canax/
 
 Kursrepot finns på GitHub [mabn17/anax-flat](https://github.com/mabn17/anax-flat).
 
+Temat kan hämtas på GitHub [mabn17/anax-flat-theme](https://github.com/mabn17/anax-flat-theme).
+
 Sidan är skapad av [Martin Borg]() (martin.d@live.se).
 
-![Web design](img/ombild.jpg)
+![Web design img](img/ombild.jpg)
