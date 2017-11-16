@@ -24,7 +24,19 @@ return [
             "about" => [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("Om webbsidan")
+            ],
+
+            "grid" =>[
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertikal Grid layout")
+            ],
+
+            "typography" =>[
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Horisontell Grid layout")
             ],
         ],
     ],
@@ -44,16 +56,28 @@ return [
         "items" => [
 
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Redovisningar"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+
+            "grid" =>[
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertikal Grid layout")
+            ],
+
+            "typography" =>[
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Horisontell Grid layout")
             ],
         ],
     ],
