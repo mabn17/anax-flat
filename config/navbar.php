@@ -38,6 +38,18 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Horisontell Grid layout")
             ],
+
+            "analysis" =>[
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av olika webbplatser")
+            ],
+
+            "theme" =>[
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Beskrivning av teman")
+            ],
         ],
     ],
 
@@ -78,6 +90,18 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Horisontell Grid layout")
+            ],
+
+            "analysis" =>[
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av olika webbplatser")
+            ],
+
+            "theme" =>[
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Beskrivning av teman")
             ],
         ],
     ],
