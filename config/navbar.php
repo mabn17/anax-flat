@@ -50,6 +50,20 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Beskrivning av teman")
             ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Bild blogg"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Firgure"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder och Firgures"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -102,6 +116,20 @@ return [
                 "text"  => t("Teman"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Beskrivning av teman")
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Bild blogg"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Firgure"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder och Firgures"),
+                "mark-if-parent" => true,
             ],
         ],
     ],

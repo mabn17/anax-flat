@@ -1,7 +1,7 @@
 Färgschema
 ===============================
 
-Jag valde tre helt olika typer av webbsidor. [HBO Nordic](https://se.hbonordic.com/) som är en streaming sida, [Tidningenhembakat](http://tidningenhembakat.se/) som lutar sig åt forum hållet och [Rockdenim](https://www.rockdenim.com/) som försäljningssida. Jag valde medvetet att ha två sidor med liknande färgval för att se om de kan ge ett annorlunda intryck.
+Jag valde tre helt olika typer av webbsidor. [HBO Nordic](https://se.hbonordic.com/) som är en streaming sida, [Tidningenhembakat](http://tidningenhembakat.se/) som lutar sig åt blogg hållet och [Rockdenim](https://www.rockdenim.com/) som försäljningssida. Jag valde medvetet att ha två sidor med liknande färgval för att se om de kan ge ett annorlunda intryck.
 
 
 ## HBO Nordic
