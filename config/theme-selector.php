@@ -77,11 +77,52 @@ return [
         ],
 
         "separator2" => "------------------------------------------------",
-        //
-        // "fun"       => [
-        //     "title"      => "All fun, test and play, make it stand out!",
-        //     "class"      => "fun",
-        //     "stylesheets" => []
-        // ],
+
+        "theme1" => [
+            "title"      => "A photo background with centerd content",
+            "class"      => "theme1",
+            "stylesheets" => [
+                "css/theme1.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme2"       => [
+            "title"      => "Gardient background, 'bordered' links and a footer picture",
+            "class"      => "theme2",
+            "stylesheets" => [
+                "css/theme2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "theme3"       => [
+            "title"      => "Textured background and wide content",
+            "class"      => "theme3",
+            "stylesheets" => [
+                "css/theme3.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+            "theme4" => [
+                "title"      => "Design prinsciple",
+                "class"      => "theme4",
+                "stylesheets" => [
+                    "css/theme4.min.css",
+                    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                ]
+            ],
+
+            "theme5"       => [
+                "title"      => "Design prinsciple 2",
+                "class"      => "theme5",
+                "stylesheets" => [
+                    "css/theme5.min.css",
+                    "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+                ]
+            ],
     ]
 ];

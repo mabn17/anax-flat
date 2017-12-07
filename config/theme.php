@@ -57,7 +57,7 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
+                "siteLogoText"  => "Hem",
                 "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",

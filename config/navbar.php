@@ -64,6 +64,20 @@ return [
                 "title" => t("Bilder och Firgures"),
                 "mark-if-parent" => true,
             ],
+
+            "design-element" => [
+                "text"  => t("Design-element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element"),
+                "mark-if-parent" => true,
+            ],
+
+            "design-principle" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -129,6 +143,20 @@ return [
                 "text"  => t("Firgure"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Bilder och Firgures"),
+                "mark-if-parent" => true,
+            ],
+
+            "design-element" => [
+                "text"  => t("Design-element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Design element"),
+                "mark-if-parent" => true,
+            ],
+
+            "design-principle" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper"),
                 "mark-if-parent" => true,
             ],
         ],
