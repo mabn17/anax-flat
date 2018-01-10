@@ -30,7 +30,7 @@ views:
                 view: blog-list
 
 ...
-Min bild blogg
+Min blogg
 ===========================
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Vardagen är både rolig och tråkig.

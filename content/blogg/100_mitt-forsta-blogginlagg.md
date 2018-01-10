@@ -1,15 +1,15 @@
 ---
 author: mabn17
-published: "2017-11-28"
+published: "2017-12-19"
 category:
-    - dagens bild
+    - spelning, kalmar, bar
 ...
-Balkong
+Trött
 ==================================
-[FIGURE src="image/balkong.jpg&width=200&height=150" class="right w25"]
+[FIGURE src="image/mikedelta-431444.jpg&width=200&height=150" class="right w25"]<br>
 
 
-En bild tagen från min balkong
+Fan va jag börjar känna av alla inspelningar.
 
 
 <!--more-->
@@ -17,13 +17,11 @@ En bild tagen från min balkong
 
 
 
------------------------------------
 
-Bilden är tagen med en samsung galaxy s8 med standard inställningar.
-<p>
-[FIGURE src="image/balkong.jpg&width=500&height=550" caption="Orginalet 500x550" class="left w50"]
-</p>
+Satan i Gatan de må jag säga, haha, vilken drag det var idag. Tackar ödmjukast för stödet.
 
-[FIGURE src="image/balkong.jpg&width=450&height=400&f=brightness,-50" caption="Brightness på -50 450x400" class="left w50"]
-[FIGURE src="image/balkong.jpg&width=500&height=550&f=colorize,-60,0,0,0" caption="Reduserar den röda färgen 500x550" class="left w50"]
-[FIGURE src="image/balkong.jpg&width=500&height=550?w=300&convolve=lighten" caption="Ljusar upp bilden 500x550" class="center w50"]
+
+Jäckla roligt att träffa folk och känna respons men snar behöver jag paus. Att jobba med promotion är slitsamt ska ni veta. Kula ställen och duktiga arangatörer och jag är tacksam för det! Dags att dra vidare. Men innan dess ett måste... Käka thai på Thai Silk Palace
+
+
+[FIGURE src="image/artur-rutkowski-61567.jpg&width=345&height=195" class="left w50" caption="Älskar asiatisk mat"]

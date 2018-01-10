@@ -1,15 +1,15 @@
 ---
 author: mabn17
-published: "2017-11-28"
+published: "2017-12-23"
 category:
-    - dagens bild
+    - God Jul, Gott Nytt År
 ...
-Rödeby
+Karlskrona
 ==================================
-[FIGURE src="image/ron.jpg&width=200&height=150" class="right w25"]
+[FIGURE src="image/brooke-lark-175184.jpg&width=200&height=150" class="right w25"]
 
 
-En bild tagen någonstans i Rödeby när jag väntade på bussen
+Sista inspelning innan ledighet
 
 
 <!--more-->
@@ -19,11 +19,47 @@ En bild tagen någonstans i Rödeby när jag väntade på bussen
 
 -----------------------------------
 
-Bilden är tagen med en samsung galaxy s8 med standard inställningar.
-
-[FIGURE src="image/ron.jpg&width=500&height=550" caption="Orginalet 500x550" class="left w50"]
+"Jag säger hej, hej
 
 
-[FIGURE src="image/ron.jpg?w=400&h=150&crop-to-fit" caption="Crop to fit 400x150" class="left w50"]
-[FIGURE src="image/ron.jpg&width=500&height=550&f=grayscale&f0=brightness,40&f1=contrast,-20" caption="Gråskalar bilden och ökar kontrasten 500x550" class="left w50"]
-[FIGURE src="image/ron.jpg&width=500&height=550?w=300&f=emboss" caption="Aktiverar emboss 500x550" class="center w50"]
+vilken underbar dag det e
+
+
+när man kan vara som man e
+
+
+och ändå leva tillsammans.
+
+
+Du måste lyssna på dig själv
+
+
+göra vad du vill.
+
+
+Följa med musiken
+
+
+inte sitta still.
+
+
+Öppna dina ögon
+
+
+öppna dina förhoppningar.
+
+
+Samla dina syskon och päron
+
+
+och ha det kul ändå"
+
+
+
+Det är så kul att spela i staden man växte upp. Förutom nypublik kan man räkna med både familj och kompisar. Landbron spelning gav mig extra energi!
+Nu ska jag ta ledig och bara njuta med nära och kära i familjens torp.
+Jag vill passa på och tacka alla duktiga människor som organiserat mina spelningar och hela min publik, ni alla är fantastiska och utan er blir jag ingen.
+Ha ni gott folk en riktig God Jul och Gott Nytt År så ses vi i januari.
+
+
+[FIGURE src="image/greg-rakozy-207199.jpg&width=400&height=375" class="left w50" caption="Älskade och saknad torp"]

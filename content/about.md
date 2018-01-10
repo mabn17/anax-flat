@@ -1,14 +1,8 @@
-Om Sidan
+Om Artur
 ==============================================
 
-Denna webbplats är skapad med hjälp av anax-flat och används som en del utav [dbwebbs design kurs](http://dbwebb.se/design).
+Mitt namn är Artur Isterband och jag går under namnet Art Ist.
 
-Ramverkets källkod finns på GitHub [canax/anax-flat](https://github.com/canax/anax-flat).
 
-Kursrepot finns på GitHub [mabn17/anax-flat](https://github.com/mabn17/anax-flat).
-
-Temat kan hämtas på GitHub [mabn17/anax-flat-theme](https://github.com/mabn17/anax-flat-theme).
-
-Sidan är skapad av [Martin Borg]() (martin.d@live.se).
-
-![Web design img](img/ombild.jpg)
+Alla ni känner DemolishonZ och som ni vet så splittrades vi för ett tag sedan. Jag startade solokariär och just nu turnerar jag i Sverige och jobbar på mitt album efter de uppskattade singels jag släppte Speciellt med tanke på att jag vek radikalt från dansband som bandet håll på och har nu mer rockig stil.
+Så klart är mina förhoppningar att även jag själv kommer vara stor i världen men så länge har jag så fantastisk publik i er här hemma så är jag mycket glad.

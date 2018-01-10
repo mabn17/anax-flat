@@ -1,15 +1,15 @@
 ---
 author: mabn17
-published: "2017-11-28"
+published: "2017-12-20"
 category:
-    - dagens bild
+    - resa, buss, obekvämnt
 ...
-Tullskolan
+Det behövs pengar
 ==================================
-[FIGURE src="image/tullskolan.jpg&width=200&height=150" class="right w25"]
+[FIGURE src="image/elizabeth-lies-159007.jpg&width=200&height=150" class="right w25"]
 
 
-En bild på min gammla skola
+Jag lovar det finns bättre transportmedel
 
 
 <!--more-->
@@ -19,11 +19,8 @@ En bild på min gammla skola
 
 -----------------------------------
 
-Bilden är tagen med en samsung galaxy s8 med standard inställningar.
 
-[FIGURE src="image/tullskolan.jpg&width=500&height=550" caption="Orginalet 500x550" class="left w50"]
+Det är inte mycket, förutom gemenskapen med kompisar, som jag saknar från tiden med DelolishonZ. Men om man reser so tajt och så långa sträckor (ska inte ljuga lite dålig planering var det med inspelningar) så är det uppskattat att ha bra turnebuss. Min skruttbuss är inte det bästa. Men är man trött så sover man vart som helst, fast jag längtar efter lite lyx jag också.
 
 
-[FIGURE src="image/tullskolan.jpg&width=450&height=400&q=90" caption="Ändrar kvaliten till 80 450x400" class="left w50"]
-[FIGURE src="image/tullskolan.jpg&width=500&height=550&r=45" caption="Roterar bilden 45 grader 500x550" class="left w50"]
-[FIGURE src="image/tullskolan.jpg&width=500&height=550?w=300&convolve=darken" caption="Mörkar bilden 500x550" class="center w50"]
+[FIGURE src="image/adi-goldstein-339959.jpg?w=320&h=275&crop-to-fit&area=20,20,20,20" class="left w50" caption="Inte så presentabel"]
